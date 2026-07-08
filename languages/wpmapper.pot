@@ -1,0 +1,85 @@
+# Copyright (C) 2026 Socialforger
+# This file is distributed under the same license as the wpmapper plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: wpmapper 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-08 16:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Socialforger\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: wpmapper\n"
+
+#: wpmapper.php:33
+msgid "Il plugin è in pausa di sicurezza perché richiede i seguenti moduli attivi:"
+msgstr ""
+
+#: wpmapper.php:57
+msgid "Impostazioni aggiornate con successo!"
+msgstr ""
+
+#: wpmapper.php:66
+msgid "Pannello di Configurazione"
+msgstr ""
+
+#: wpmapper.php:71
+msgid "Autorizzazioni di Scrittura per ID Utenti"
+msgstr ""
+
+#: wpmapper.php:72
+msgid "Inserisci gli ID degli utenti BuddyBoss abilitati al disegno oltre agli amministratori, separati da una virgola:"
+msgstr ""
+
+#: wpmapper.php:77
+msgid "1. Mappa Dati (Choropleth GeoJSON URL)"
+msgstr ""
+
+#: wpmapper.php:82
+msgid "2. Mappa Grafica Raster (Image Overlay / Piantine)"
+msgstr ""
+
+#: wpmapper.php:83
+msgid "URL Immagine:"
+msgstr ""
+
+#: wpmapper.php:85
+msgid "Limiti geografici dei bordi (Bounds format: SW_lat, SW_lng, NE_lat, NE_lng):"
+msgstr ""
+
+#: wpmapper.php:89
+msgid "Salva Impostazioni"
+msgstr ""
+
+#: wpmapper.php:164
+msgid "Inserisci una descrizione per questo elemento:"
+msgstr ""
+
+#: wpmapper.php:165
+msgid "Vuoi che questo elemento sia TEMPORANEO?\\n[OK = Temporaneo / Annulla = Permanente]"
+msgstr ""
+
+#: wpmapper.php:166
+msgid "Tra quante ORE deve sparire dalla mappa?"
+msgstr ""
+
+#: wpmapper.php:167
+msgid "⏳ Scade tra:"
+msgstr ""
+
+#: wpmapper.php:168
+msgid "minuti"
+msgstr ""
+
+#: wpmapper.php:169
+msgid "⏳ Elemento Temporaneo"
+msgstr ""
+
+#: wpmapper.php:177
+msgid "Non autorizzato."
+msgstr ""
